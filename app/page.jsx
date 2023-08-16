@@ -8,7 +8,7 @@ const Home = () => (
       <span className='orange_gradient text-center'> Thoughts </span>
     </h1>
     <p className='desc text-center'>
-      Promptia is online Plateform for Everyone,
+      Promptia is an online Platform for Everyone,
       For Sharing Thoughts.
     </p>
 
